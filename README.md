@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Shin+Knight;I'm+24+years+old;I'm+from+Myanmar;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<p align="left"> <a href="https://twitter.com/demoshinn" target="blank"><img src="https://img.shields.io/twitter/follow/demoshinn?logo=twitter&style=for-the-badge" alt="demoshinn" /></a> </p>
+
+
   ![Snake animation](https://github.com/atpspotify/atpspotify/blob/output/github-contribution-grid-snake.svg)
 
 
